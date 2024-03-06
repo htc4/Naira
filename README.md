@@ -12,6 +12,7 @@ Our assortment is presented grouped and separate necklaces, bracelets, earrings 
 ### Discription
 The sign in page is intended for users who already have an account to enter the site. We have buttons for entering the email and entering the password.
 ## Sign up
+![alt text](<https://github.com/htc4/Naira/blob/main/images/Screenshot%20from%202024-03-06%2010-55-37.png>)
 ### Discription
 The sign up page is designed to open an account from scratch. There are buttons to enter the email, name, and password. After that, our account is opened with the help of the sign up button.
 ## Neecklaces
