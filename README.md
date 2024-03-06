@@ -8,6 +8,7 @@ It is the first page, through which we can register from scratch or enter an alr
 ### Discription
 Our assortment is presented grouped and separate necklaces, bracelets, earrings and maanis; we have a back button, through which we go landing page
 ## Sign in
+![alt text](<https://github.com/htc4/Naira/blob/main/images/Screenshot%20from%202024-03-06%2010-55-23.png>)
 ### Discription
 The sign in page is intended for users who already have an account to enter the site. We have buttons for entering the email and entering the password.
 ## Sign up
