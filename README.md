@@ -12,3 +12,6 @@ The sign in page is intended for users who already have an account to enter the 
 ## Sign up
 ### Discription
 The sign up page is designed to open an account from scratch. There are buttons to enter the email, name, and password. After that, our account is opened with the help of the sign up button.
+## Neecklaces
+### Discription
+On the Necklaces page, our assortment of necklaces is presented, after each of which is written its value and a button to order it. We have a button to go back, through which we go to the home page.
