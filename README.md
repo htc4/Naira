@@ -4,6 +4,7 @@
 ### Discription
 It is the first page, through which we can register from scratch or enter an already existing account. There are buttons to see the assortment, as well as buttons telling about us and contacting us.
 ## Home page
+![alt text](<![alt text](<https://github.com/htc4/Naira/blob/main/images/Screenshot%20from%202024-03-06%2010-52-39.png>)>)
 ### Discription
 Our assortment is presented grouped and separate necklaces, bracelets, earrings and maanis; we have a back button, through which we go landing page
 ## Sign in
