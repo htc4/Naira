@@ -1,6 +1,6 @@
 # jewelry
 ## Landing page
-!(landing page img)[<>]
+![alt text](<https://github.com/htc4/Naira/blob/main/images/Screenshot%20from%202024-03-06%2010-52-39.png>)
 ### Discription
 It is the first page, through which we can register from scratch or enter an already existing account. There are buttons to see the assortment, as well as buttons telling about us and contacting us.
 ## Home page
