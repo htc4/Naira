@@ -19,6 +19,18 @@ The sign up page is designed to open an account from scratch. There are buttons 
 ![alt text](<https://github.com/htc4/Naira/blob/main/images/Screenshot%20from%202024-03-06%2010-56-34.png>)
 ### Discription
 On the Necklaces page, our assortment of necklaces is presented, after each of which is written its value and a button to order it. We have a button to go back, through which we go to the home page.
+## Earrings
+### Discription
+On the Earrings page, our assortment of earrings is presented, after each of which is written its value and a button to order it. We have a button to go back, through which we go to the home page.
+## Bracelets
+### Discription
+On the Bracelets page, our assortment of bracelets is presented, after each of which is written its value and a button to order it. We have a button to go back, through which we go to the home page.
+## Rings
+### Discritpion
+On the Rings page, our assortment of rings is presented, after each of which is written its value and a button to order it. We have a button to go back, through which we go to the home page.
+
+
+
 
 ```# Naira
 ## Usage
