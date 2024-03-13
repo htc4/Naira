@@ -19,3 +19,57 @@ The sign up page is designed to open an account from scratch. There are buttons 
 ![alt text](<https://github.com/htc4/Naira/blob/main/images/Screenshot%20from%202024-03-06%2010-56-34.png>)
 ### Discription
 On the Necklaces page, our assortment of necklaces is presented, after each of which is written its value and a button to order it. We have a button to go back, through which we go to the home page.
+
+```# Naira
+## Usage
+
+├── Landing page
+│   ├── landing.html
+│   ├── landing.css
+
+├── Sign In
+│   ├── signin.html
+│   ├── signin.css
+│   └── signin.js
+
+├── Sign Up
+│   ├── signup.html
+│   ├── signup.css
+│   └── signup.js
+
+├── Necklaces
+│   ├── necklaces.html
+│   ├── necklaces.css
+│   └── necklaces.jsteams
+
+├── Earrings
+│   ├── earrings.html
+│   ├── earrings.css
+│   └── earrings.js
+
+├── Bracelets
+│   ├── braselets.html
+│   ├── braselets.css
+│   └── bracelets
+
+├── Rings
+│   ├── rings.html
+│   ├── rings.css
+│   └── rings.js
+
+├── Contact
+│   ├── contact.html
+│   ├── contact.css
+│   └── contact.js
+
+
+├── Image
+│   ├── image1
+│   ├── ...
+│   └── image20
+
+├── Index
+│   ├── index.html
+│   ├── index.css
+│   └── index.js
+```
