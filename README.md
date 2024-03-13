@@ -28,8 +28,12 @@ On the Bracelets page, our assortment of bracelets is presented, after each of w
 ## Rings
 ### Discritpion
 On the Rings page, our assortment of rings is presented, after each of which is written its value and a button to order it. We have a button to go back, through which we go to the home page.
-
-
+## About us
+### Discription
+About us page presents a little information about us, where the importance of jewelry in human life and for girls is presented.
+## Contact
+### Discription
+The Contact page is designed to establish feedback with us. It includes phone number, email, Instagram.
 
 
 ```# Naira
