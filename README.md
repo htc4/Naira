@@ -26,6 +26,7 @@ On the Earrings page, our assortment of earrings is presented, after each of whi
 ### Discription
 On the Bracelets page, our assortment of bracelets is presented, after each of which is written its value and a button to order it. We have a button to go back, through which we go to the home page.
 ## Rings
+![alt text](<https://github.com/htc4/Naira/blob/main/images/rings.png>)
 ### Discritpion
 On the Rings page, our assortment of rings is presented, after each of which is written its value and a button to order it. We have a button to go back, through which we go to the home page.
 ## About us
@@ -34,11 +35,13 @@ About us page presents a little information about us, where the importance of je
 ## Contact
 ### Discription
 The Contact page is designed to establish feedback with us. It includes phone number, email, Instagram.
+## 
+https://github.com/htc4/Naira/blob/main/images/rings.png
 
-
-```# Naira
 ## Usage
+```
 
+.
 ├── Landing page
 │   ├── landing.html
 │   ├── landing.css
