@@ -49,37 +49,36 @@ https://github.com/htc4/Naira/blob/main/images/rings.png
 ├── Sign In
 │   ├── signin.html
 │   ├── signin.css
-│   └── signin.js
+│   
 
 ├── Sign Up
 │   ├── signup.html
 │   ├── signup.css
-│   └── signup.js
+│   
 
 ├── Necklaces
 │   ├── necklaces.html
 │   ├── necklaces.css
-│   └── necklaces.jsteams
+│  
 
 ├── Earrings
 │   ├── earrings.html
 │   ├── earrings.css
 │   └── earrings.js
-
 ├── Bracelets
 │   ├── braselets.html
 │   ├── braselets.css
-│   └── bracelets
+│   
 
 ├── Rings
 │   ├── rings.html
 │   ├── rings.css
-│   └── rings.js
+│  
 
 ├── Contact
 │   ├── contact.html
 │   ├── contact.css
-│   └── contact.js
+│  
 
 
 ├── Image
@@ -90,5 +89,5 @@ https://github.com/htc4/Naira/blob/main/images/rings.png
 ├── Index
 │   ├── index.html
 │   ├── index.css
-│   └── index.js
+│   
 ```
