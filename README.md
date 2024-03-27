@@ -64,7 +64,7 @@ https://github.com/htc4/Naira/blob/main/images/rings.png
 ├── Earrings
 │   ├── earrings.html
 │   ├── earrings.css
-│   └── earrings.js
+│   
 ├── Bracelets
 │   ├── braselets.html
 │   ├── braselets.css
