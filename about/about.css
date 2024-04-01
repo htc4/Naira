@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .container {
+    width: 100%;
+    height: 1430px;
+    background: rgba(235,196,169,1);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .title {
+    color: rgba(163,116,87,1);
+    position: absolute;
+    top: 8%;
+    left: 40%;
+    font-family: Ribeye Marrow;
+    font-weight: Regular;
+    font-size: 90px;
+    text-align: center;
+  }
+  .divider {
+    width: 90%;
+    height: 70%;
+    background: rgba(163,116,87,1);
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    overflow: hidden;
+  }
+  .section {
+    width: 12%;
+    height: 10%;
+    background: url("./image/back.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: absolute;
+    top: 2%;
+    left: 3.5%;
+    overflow: hidden;
+  }
+  .section1a {
+    width: 94%;
+    height: 0px;
+    position: absolute;
+    top: 18%;
+    left: 3%;
+    border: 3px solid rgba(253,247,243,1);
+  }
+  .section2b {
+    width: 94%;
+    height: 0px;
+    position: absolute;
+    top: 92%;
+    left: 3%;
+    border: 3px solid rgba(253,247,243,1);
+  }
+
+  .section4d {
+    height: 80%;
+    position: absolute;
+    top: 15%;
+    left: 4%;
+    border: 3px solid rgba(253,247,243,1);
+  }
+  .section5e {
+    height: 80%;
+    position: absolute;
+    top: 15%;
+    right: 4%;
+    border: 3px solid rgba(253,247,243,1);
+  }
+  
+  .about-info {
+    width: 85%;
+    color: rgba(235,196,169,1);
+    position: absolute;
+    top: 25%;
+    left: 9%;
+    font-family: Ribeye Marrow;
+    font-weight: Regular;
+    font-size: 500%;
+    opacity: 1;
+    text-align: left;
+  }
+  
