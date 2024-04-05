@@ -1,0 +1,254 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.container {
+  width: 100%;
+  height: 1430px;
+  background: rgba(235,196,169,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.title {
+  width: 309px;
+  color: rgba(163,116,87,1);
+  position: absolute;
+  top: 2%;
+  left: 45%;
+  font-family: Ribeye Marrow;
+  font-weight: Regular;
+  font-size: 500%;
+  text-align: center;
+}
+.rectangle1{
+  width: 26%;
+  height: 43%;
+  background: rgba(163,116,87,1);
+  opacity: 1;
+  position: absolute;
+  top: 12%;
+  left: 20%;
+  overflow: hidden;
+}
+.rectangle2 {
+  width: 26%;
+  height: 43%;
+  background: rgba(163,116,87,1);
+  position: absolute;
+  top: 12%;
+  left: 60%;
+  overflow: hidden;
+}
+.rectangle3 {
+  width: 26%;
+  height: 43%;
+  background: rgba(163,116,87,1);
+  position: absolute;
+  top: 56%;
+  left: 20%;
+  overflow: hidden;
+}
+.rectangle4{
+  width: 26%;
+  height: 43%;
+  background: rgba(163,116,87,1);
+  position: absolute;
+  top: 56%;
+  left: 60%;
+  overflow: hidden;
+} 
+.image1{
+  width: 19%;
+  height: 35%;
+  background: url("../images/image1.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 13%;
+  left: 23.5%;
+  overflow: hidden;
+}
+.image2{
+  width: 19%;
+  height: 35%;
+  background: url("../images/image2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 13%;
+  right: 17.5%;
+  overflow: hidden;
+}
+.image3 {
+  width: 19%;
+  height: 35%;
+  background: url("../images/image3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 57%;
+  left: 23.5%;
+  overflow: hidden;
+}
+.image4 {
+  width: 19%;
+  height: 35%;
+  background: url("../images/image4.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 57%;
+  right: 17.5%;
+  overflow: hidden;
+}
+.section {
+  width: 11%;
+  height: 12%;
+  background: url("../images/back.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 2%;
+  left: 3.5%;
+  overflow: hidden;
+}
+.btn1 {
+  width: 7.5%;
+  height: 5%;
+  background: rgba(235,196,169,1);
+  position: absolute;
+  top: 49%;
+  left: 35%;
+  overflow: hidden;
+}
+.order1 {
+  width: 7.5%;
+  color: rgb(163,116,87,1);
+  position: absolute;
+  top: 49.5%;
+  left: 35%;
+  font-family: Ribeye Marrow;
+  font-weight: Regular;
+  font-size: 250%;
+  text-align: center;
+}
+.price1 {
+  width: 9%;
+  color: rgb(235,196,169,1);
+  position: absolute;
+  top: 49.9%;
+  left: 24%;
+  font-family: Ribeye Marrow;
+  font-weight: Regular;
+  font-size: 250%;
+  text-align: center;
+}
+.btn2 {
+  width: 7.5%;
+  height: 5%;
+  background: rgba(235,196,169,1);
+  position: absolute;
+  top: 49%;
+  right: 17.5%;
+  overflow: hidden;
+}
+.order2 {
+  width: 7.5%;
+  color: rgb(163,116,87,1);
+  position: absolute;
+  top: 49.5%;
+  right: 17.5%;
+  font-family: Ribeye Marrow;
+  font-weight: Regular;
+  font-size: 250%;
+  text-align: center;
+}
+.price2 {
+  width: 9%;
+  color: rgb(235,196,169,1);
+  position: absolute;
+  top: 49.9%;
+  right: 27%;
+  font-family: Ribeye Marrow;
+  font-weight: Regular;
+  font-size: 250%;
+  text-align: center;
+}
+.btn3 {
+  width: 7.5%;
+  height: 5%;
+  background: rgb(235,196,169,1);
+  position: absolute;
+  top: 93%;
+  left: 35%;
+  overflow: hidden;
+}
+.order3 {
+  width: 7.5%;
+  color: rgb(163,116,87,1);
+  position: absolute;
+  top: 93.5%;
+  left: 35%;
+  font-family: Ribeye Marrow;
+  font-weight: Regular;
+  font-size: 250%;
+  text-align: center;
+}
+
+.price3 {
+  width: 9%;
+  color: rgb(235,196,169,1);
+  position: absolute;
+  top: 94%;
+  left: 24%;
+  font-family: Ribeye Marrow;
+  font-weight: Regular;
+  font-size: 250%;
+  text-align: center;
+}
+.btn4 {
+  width: 7.5%;
+  height: 5%;
+  background: rgb(235,196,169,1);
+  position: absolute;
+  top: 93%;
+ right: 17.5%;
+  overflow: hidden;
+}
+
+.order4 {
+  width: 7.5%;
+  color: rgb(163,116,87,1);
+  position: absolute;
+  top: 93.5%;
+  right:17.5%;
+  font-family: Ribeye Marrow;
+  font-weight: Regular;
+  font-size: 250%;
+  text-align: center;
+}
+
+.price4 {
+  width: 9%;
+  color: rgb(235,196,169,1);
+  position: absolute;
+  top: 94%;
+  right: 27%;
+  font-family: Ribeye Marrow;
+  font-weight: Regular;
+  font-size: 250%;
+  text-align: center;
+}
+
+
+
+
